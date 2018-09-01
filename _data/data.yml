@@ -47,8 +47,6 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
-
 education:
     - degree: MSc in Computer Science
       university: Hasso Plattner Institut in Potsdam
@@ -63,18 +61,18 @@ education:
 experiences:
     - role: Software Engineer
       time: 2014 - Present
-      company: Otto Gmbh
+      company: Otto GmbH & Co KG | Hamburg, Germany
       details: |
-        Develop search and navigation functionalities at otto.de
+        Develop search and navigation functionalities of otto.de
 
           - Bullet point
           - Bullet point 
 
     - role: Software Engineer
       time: 2012 - 2014
-      company: Otto Group
+      company: Otto Group | Hamburg, Germany
       details: |
-        Developed central Communication Middleware for all members of Otto Group
+        Develop the central communication middleware for all members of the Otto Group
 
           - Bullet point
           - Bullet point
@@ -83,7 +81,7 @@ experiences:
       time: 2009 - 2010
       company: BBF GmbH & BMW Financial Services
       details: |
-        Developed a tool to analyse and improve complex ETL processes
+        Develop a tool to analyse and improve complex ETL processes
 
           - Bullet point
           - Bullet point
