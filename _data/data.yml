@@ -114,5 +114,11 @@ skills:
       - name: Java
         level: 98%
 
+      - name: Shell
+        level: 98%
+
+      - name: Javascript
+        level: 60%
+
       - name: HTML5 & CSS
         level: 60%
