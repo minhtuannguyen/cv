@@ -41,11 +41,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
 
 education:
     - degree: MSc in Computer Science
@@ -65,8 +65,8 @@ experiences:
       details: |
         Develop search and navigation functionalities of otto.de
 
-          - Bullet point
-          - Bullet point 
+#          - Bullet point
+#          - Bullet point
 
     - role: Software Engineer
       time: 2012 - 2014
@@ -74,8 +74,8 @@ experiences:
       details: |
         Develop the central communication middleware for all members of the Otto Group
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
     - role: Software Engineer
       time: 2009 - 2010
@@ -83,32 +83,26 @@ experiences:
       details: |
         Develop a tool to analyse and improve complex ETL processes
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Leinsync
+        link: "https://github.com/otto-de/leinsync"
+        tagline: "A Leining plugin to synchronize the shared codebase between clojure projects"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      - title: Cljocker
+        link: "https://github.com/minhtuannguyen/cljocker"
+        tagline: "A simple DSL to define and generate Dockerfile"
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+
+      - title: Remote test-refresh
+        link: "https://github.com/minhtuannguyen/remote-test-refresh"
+        tagline: "A Leining plugin to synchronize code change between local and remote repository per SSH"
+
 
 skills:
     title: Skills &amp; Proficiency
