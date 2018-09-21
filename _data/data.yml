@@ -65,8 +65,11 @@ experiences:
       details: |
         Develop search and navigation functionalities of otto.de
 
-#          - Bullet point
-#          - Bullet point
+          - implement new features of the search functionalities based on the technologies Java, Spring, Jersey, Javascript, SCSS and MongoDB
+          - design the micro service architecture of the new graph-based navigation system of otto.de
+          - implement the new navigation system of otto.de based on the technologies: Clojure, Kafka and Mesos
+          - implement the new continous delivery process with LamdbaCD
+          - migrate the navigation system from the private cloud to the AWS
 
     - role: Software Engineer
       time: 2012 - 2014
@@ -74,17 +77,19 @@ experiences:
       details: |
         Develop the central communication middleware for all members of the Otto Group
 
-#          - Bullet point
-#          - Bullet point
+          - implement new features with the technologies: Java, Spring Hibernate, Ant, Maven
+          - modularize the monolith the middleware software
+          - implement the monolith the middleware software
+          - implement a new integration and performance test with SoapUI and JMeter
 
     - role: Software Engineer
       time: 2009 - 2010
       company: BBF GmbH & BMW Financial Services
       details: |
-        Develop a tool to analyse and improve complex ETL processes
+        Develop a tool to visualize, analyse and optimize complex ETL processes
 
-#          - Bullet point
-#          - Bullet point
+          - implement a too to transfer complex ETL processes from the tool Informatica to Talend
+          - implement the automatical optimazation of an complex ET process by detecting recurring pattern in this process and summaize them into a more simple process
 
 projects:
     title: Projects
