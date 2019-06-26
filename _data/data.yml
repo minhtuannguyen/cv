@@ -42,8 +42,8 @@ career-profile:
     title: Career Profile
     summary: |
        Current senior software engineer at otto.de. 7 years experiences in backend development and creating continuous delivery process.
-       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover I'm a lazy developer so I enjoy to optimize the development enviroment to increase my productivity.
-       A perfect day at work is when I write a well designed piece of  software to solve a challenging task. Moreover, I'm alway interested in learning new technologies.
+       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover I'm a lazy developer so I enjoy to optimize the development environment to increase my productivity.
+       A perfect day at work is when I write a well designed piece of  software to solve a challenging task. Moreover, I'm always interested in learning new technologies.
 #      adipiscing elit. You can [download this free resume/CV template here]().
 #      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
 #      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -70,7 +70,7 @@ experiences:
           - implement new features of the search functionalities based on the technologies Java, Spring, Jersey, Javascript, SCSS and MongoDB
           - design the micro service architecture of the new graph-based navigation system of otto.de.
           - implement the new navigation system of otto.de based on the technologies: Clojure, Kafka and Mesos.
-          - implement the new continous delivery process with LamdbaCD.
+          - implement the new continuous delivery process with LamdbaCD.
           - migrate the navigation system from the private cloud to the AWS.
 
     - role: Software Engineer
@@ -107,7 +107,7 @@ projects:
 
       - title: Remote test-refresh
         link: "https://github.com/minhtuannguyen/remote-test-refresh"
-        tagline: "A Leining plugin to synchronize code change between local and remote repository per SSH"
+        tagline: "A Leining plugin to synchronize code change between local and remote repositories per SSH"
 
 
 skills:
