@@ -42,8 +42,8 @@ career-profile:
     title: Career Profile
     summary: |
        Current senior software engineer at otto.de. 7 years experiences in backend development and creating continuous delivery process.
-       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover I'm a lazy developer so I enjoy to optimize the development environment to increase my productivity.
-       A perfect day at work is when I write a well designed piece of  software to solve a challenging task. Moreover, I'm always interested in learning new technologies.
+       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover, I'm a lazy developer, so I enjoy optimizing the development environment to increase my productivity.
+       A perfect day at work is when I write a well-designed piece of  software to solve a challenging task. Moreover, I'm always interested in learning new technologies.
 #      adipiscing elit. You can [download this free resume/CV template here]().
 #      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
 #      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -87,10 +87,10 @@ experiences:
       time: 2009 - 2010
       company: BBF GmbH & BMW Financial Services
       details: |
-        Develop a tool to visualize, analyse and optimize complex ETL processes
+        Develop a tool to visualize, analyze and optimize complex ETL processes
 
           - implement a tool to transfer complex ETL processes from the tool Informatica to Talend.
-          - implement the automatical optimization of an complex ET process by detecting recurring pattern in this process and compacte it into a more simple process.
+          - implement the automatic optimization of a complex ET process by detecting recurring pattern in this process and compact it into a simpler process.
 
 projects:
     title: Projects
