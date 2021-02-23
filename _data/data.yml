@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Current senior software engineer at otto.de. 9 years of experiences in fullstack development and creating continuous delivery process.
+       Current senior software engineer at otto.de. 9 years of experiences in full stack development and creating continuous delivery process.
        I'm a defender of the TDD and love Vim, Linux and OSX. Moreover, I'm a lazy developer, so I always enjoy optimizing the developing environment to increase my productivity.
        A perfect day at work is the day when I write a well-designed piece of software to solve a challenging problem. Moreover, I'm always interested in learning new technologies.
 
@@ -88,7 +88,7 @@ experiences:
       time: 2009 - 2010
       company: BBF GmbH & BMW Financial Services
       details: |
-        Develop a tool to visualize, analyze and optimize complex ETL processes
+        Develop a tool to visualize, analyze and optimize complex ETL processes.
 
           - implement a tool to transfer complex ETL processes from the tool Informatica to Talend.
           - implement the automatic optimization of a complex ET process by detecting recurring pattern in this process and compact it into a simpler process.
