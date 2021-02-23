@@ -44,13 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Current senior software engineer at otto.de. 7 years experiences in backend development and creating continuous delivery process.
-       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover, I'm a lazy developer, so I enjoy optimizing the development environment to increase my productivity.
-       A perfect day at work is when I write a well-designed piece of  software to solve a challenging task. Moreover, I'm always interested in learning new technologies.
-#      adipiscing elit. You can [download this free resume/CV template here]().
-#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#      Donec quam felis, ultricies nec, pellentesque eu.
+       Current senior software engineer at otto.de. 9 years of experiences in fullstack development and creating continuous delivery process.
+       I'm a defender of the TDD and love Vim, Linux and OSX. Moreover, I'm a lazy developer, so I always enjoy optimizing the developing environment to increase my productivity.
+       A perfect day at work is the day when I write a well-designed piece of software to solve a challenging problem. Moreover, I'm always interested in learning new technologies.
+
 
 education:
     - degree: MSc in Computer Science
@@ -75,6 +72,7 @@ experiences:
           - implement the new navigation system of otto.de based on the technologies: Clojure, Kafka and Mesos.
           - implement the new continuous delivery process with LamdbaCD.
           - migrate the navigation system from the private cloud to the AWS.
+          - build the new serverless architecture on the AWS
 
     - role: Software Engineer
       time: 2012 - 2014
